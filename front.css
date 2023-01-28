@@ -1,0 +1,20 @@
+#container {
+    margin: 0 auto;
+    width: 80%;
+  }
+  
+  .green-btn {
+    background-color: green;
+    color: white;
+  }
+  
+  .search-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  #dataTable {
+    margin-top: 20px;
+    width: 100%;
+  }
+  
